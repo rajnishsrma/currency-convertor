@@ -85,7 +85,7 @@ label{
 .res{
   margin-top: 20px;
   /* brder: 2px solid blue; */
-  width: 100%;
+  width: auto;
   height: 40%;
 }
 .btn1{
@@ -115,9 +115,7 @@ label{
      .formElm .formTag label{
       width:100%;
      }
-     .top{
-
-     }
+    
 }
 
 @media screen and (max-width:576px) {
